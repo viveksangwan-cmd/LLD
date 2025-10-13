@@ -6,11 +6,12 @@ public class Board {
     boolean gameOver;
     HashMap<Integer,Obstacle> obstacles;
     HashMap<Integer,Integer> userPositions;
-    public Board(int size, HashMap<Integer,Obstacle> obstacles, List<User> users){
-        this.obstacles = obstacles;
+    public Board(int size, List<Obstacle> obstacles, List<User> users){
         this.size = size;
         this.gameOver = false;
         this.userPositions = new HashMap<>();
+        this.obstacles = new HashMap<>();
+        obstacles.forEach(obstacle -> this.obstacles.put(obstacle.startIndex,obstacle));
         users.forEach(user -> userPositions.put(user.id,0));
     }
 

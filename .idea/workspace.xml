@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7140636-16af-40d7-805e-4a4794007018" name="Changes" comment="" />
+    <list default="true" id="b7140636-16af-40d7-805e-4a4794007018" name="Changes" comment="SnakeAndLadder MVP">
+      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/ObstacleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/Obstacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/RandomDiceStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/RandomDiceStrategy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "viveksangwan-cmd"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/viveksangwan-cmd/LLD.git",
+    "accountId": "c38d605c-b1b2-4dfe-9eed-ef494148caa1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -30,19 +50,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Game.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/LLD&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Game.executor": "Run",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Study/LLD",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -78,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1760291026237</updated>
     </task>
+    <task id="LOCAL-00001" summary="SnakeAndLadder MVP">
+      <option name="closed" value="true" />
+      <created>1760375817509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760375817509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SnakeAndLadder MVP" />
+    <option name="LAST_COMMIT_MESSAGE" value="SnakeAndLadder MVP" />
   </component>
 </project>

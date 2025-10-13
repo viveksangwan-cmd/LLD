@@ -4,6 +4,6 @@ public class RandomDiceStrategy implements DiceStrategy{
     @Override
     public int getPosition() {
         Random random = new Random();
-        return random.nextInt(7);
+        return 1+random.nextInt(7);
     }
 }
