@@ -6,12 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ParkingLot" />
-        <module name="SnakeAndLadder" />
+        <module name="TrueCaller" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="untitled" target="25" />
-    </bytecodeTargetLevel>
   </component>
 </project>
